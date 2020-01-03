@@ -1,4 +1,4 @@
-# mongodb_sns
+# Monstagram
 --<MONSTAGRAM>--
 A Simple Social Network Service Developed with Python and MongoDB
 This SNS app consists of 7 python py files: main, user, wall, post, follow, chat, and search. 
